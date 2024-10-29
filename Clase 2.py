@@ -3,8 +3,6 @@ import pandas as pd
 
 st.title("Mi primera aplicación de Streamlit")
 
-st.image("Real.jpg")
-
 st.sidebar.title("Barra lateral")
 st.sidebar.header("Hola")
 st.sidebar.write("Esto es mi barra lateral")
