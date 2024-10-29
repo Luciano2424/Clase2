@@ -7,7 +7,7 @@ st.sidebar.title("Barra lateral")
 st.sidebar.header("Hola")
 st.sidebar.write("Esto es mi barra lateral")
 
-st.sidebar.image("cr7_2.jpg")
+st.image("cr7_2.jpg")
 
 if st.sidebar.button("Haz echo cick pero en la barra lateral"):
     st.sidebar.write("Haz echo click en el botón de la barra lateral")
